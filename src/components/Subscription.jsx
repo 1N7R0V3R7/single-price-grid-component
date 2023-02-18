@@ -11,7 +11,7 @@ function Subscription() {
         <span className="text-gray-300">per month</span>
       </p>
       <p className="text-neutral-gray">Full access for less than $1 a day</p>
-      <button className="bg-primary-yellow rounded-lg w-full py-3 shadow-lg mt-8">
+      <button className="bg-primary-yellow rounded-lg w-full py-3 shadow-lg mt-6">
         Sign Up
       </button>
     </div>
